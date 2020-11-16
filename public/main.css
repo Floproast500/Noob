@@ -1,0 +1,19 @@
+body {
+    font-family: helvetica;
+}
+
+ul {
+    font-family: monospace;
+}
+
+li {
+    list-style: square;
+}
+
+#date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* This is my first CSS comment, which works like Javascript comments.*/
